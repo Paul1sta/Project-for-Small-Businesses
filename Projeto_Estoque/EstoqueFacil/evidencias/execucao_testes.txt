@@ -1,0 +1,34 @@
+APROVADO T01 cadastro normaliza codigo
+APROVADO T02 produto inicia com saldo zero
+APROVADO T03 codigo duplicado e rejeitado
+APROVADO T04 entrada soma unidades
+APROVADO T05 saida subtrai unidades
+APROVADO T06 saida insuficiente nao altera historico
+APROVADO T07 quantidade zero rejeitada
+APROVADO T08 quantidade negativa rejeitada
+APROVADO T09 limite de saldo respeitado
+APROVADO T10 motivo obrigatorio
+APROVADO T11 custo com tres casas rejeitado
+APROVADO T12 centavos e total exatos
+APROVADO T13 custo e minimo invalidos rejeitados
+APROVADO T14 edicao preserva saldo e nome historico
+APROVADO T15 alerta inclui igualdade ao minimo
+APROVADO T16 pesquisa ignora caixa e acento
+APROVADO T17 persistencia sobrevive reabertura
+APROVADO T18 arquivo com bit alterado rejeitado
+APROVADO T19 arquivo truncado rejeitado
+APROVADO T20 segunda instancia bloqueada
+APROVADO T21 falha de disco preserva estado anterior
+APROVADO T22 backup restaura em base vazia
+APROVADO T23 restauracao nao sobrescreve base preenchida
+APROVADO T24 demonstracao reproduz totais
+APROVADO T25 demonstracao nao substitui dados existentes
+APROVADO T26 CSV preserva acentos e escapa texto
+APROVADO T27 exportacao nao sobrescreve arquivo existente
+APROVADO T28 historico com produto ausente rejeitado
+APROVADO T29 dados publicados sao imutaveis
+APROVADO T30 interface cadastra por acionamento do botao
+APROVADO T31 interface registra entrada pelo formulario
+APROVADO T32 interface mostra erro sem alterar saldo
+APROVADO T33 interface filtra pesquisa e reposicao
+RESULTADO: 33 aprovados, 0 falhas.

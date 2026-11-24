@@ -1,0 +1,7 @@
+﻿codigo;produto;categoria;saldo_unidades;minimo;custo_unitario_reais;valor_estoque_reais;situacao
+"ARZ001";"Arroz 5 kg";"Alimentos";14;5;24,90;348,60;REGULAR
+"ACU001";"Açúcar 1 kg";"Alimentos";3;6;4,30;12,90;REPOR
+"CAF001";"Café 500 g";"Alimentos";4;4;16,80;67,20;REPOR
+"DET001";"Detergente 500 mL";"Limpeza";15;5;2,20;33,00;REGULAR
+"FEJ001";"Feijão 1 kg";"Alimentos";5;8;8,50;42,50;REPOR
+"LEI001";"Leite 1 L";"Bebidas";24;10;4,60;110,40;REGULAR

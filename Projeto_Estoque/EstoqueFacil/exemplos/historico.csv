@@ -1,0 +1,13 @@
+﻿id;data_hora_utc;codigo;nome_na_data;tipo;quantidade_unidades;motivo
+1;"2026-10-28T13:02:00Z";"ARZ001";"Arroz 5 kg";ENTRADA;20;"Carga inicial simulada"
+2;"2026-10-28T13:03:00Z";"ARZ001";"Arroz 5 kg";SAIDA;6;"Retirada simulada para demonstração"
+3;"2026-10-28T13:04:00Z";"FEJ001";"Feijão 1 kg";ENTRADA;15;"Carga inicial simulada"
+4;"2026-10-28T13:05:00Z";"FEJ001";"Feijão 1 kg";SAIDA;10;"Retirada simulada para demonstração"
+5;"2026-10-28T13:06:00Z";"CAF001";"Café 500 g";ENTRADA;12;"Carga inicial simulada"
+6;"2026-10-28T13:07:00Z";"CAF001";"Café 500 g";SAIDA;8;"Retirada simulada para demonstração"
+7;"2026-10-28T13:08:00Z";"LEI001";"Leite 1 L";ENTRADA;30;"Carga inicial simulada"
+8;"2026-10-28T13:09:00Z";"LEI001";"Leite 1 L";SAIDA;6;"Retirada simulada para demonstração"
+9;"2026-10-28T13:10:00Z";"DET001";"Detergente 500 mL";ENTRADA;18;"Carga inicial simulada"
+10;"2026-10-28T13:11:00Z";"DET001";"Detergente 500 mL";SAIDA;3;"Retirada simulada para demonstração"
+11;"2026-10-28T13:12:00Z";"ACU001";"Açúcar 1 kg";ENTRADA;10;"Carga inicial simulada"
+12;"2026-10-28T13:13:00Z";"ACU001";"Açúcar 1 kg";SAIDA;7;"Retirada simulada para demonstração"
